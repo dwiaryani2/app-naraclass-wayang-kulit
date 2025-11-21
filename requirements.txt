@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 streamlit
 tensorflow
 numpy
 Pillow
+=======
+streamlit
+tensorflow
+numpy
+Pillow
+>>>>>>> 81484fea7b5fa108b9fe921bbbfdb232e3839914
 requests
